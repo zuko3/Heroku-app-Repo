@@ -28,7 +28,7 @@ chunk {4} inline.74516ca29352d5044f4b.bundle.js (inline) 1.47 kB [entry] [render
  ```
  "scripts": {
         ...
-        "start": "node server.js",<br>
+        "start": "node server.js",
          ...
   }
 ```
